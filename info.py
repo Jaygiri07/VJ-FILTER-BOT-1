@@ -71,10 +71,10 @@ CLONE_DATABASE_URI = environ.get('CLONE_DATABASE_URI', "mongodb+srv://Rishu:rish
 PUBLIC_FILE_CHANNEL = environ.get('PUBLIC_FILE_CHANNEL', 'Rishu_mood') # Public Channel Username Without @ or without https://t.me/ and Bot Is Admin With Full Right.
 
 # Links
-GRP_LNK = environ.get('GRP_LNK', 'https://t.me/ur_support07')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/ur_rishu_143')
-TUTORIAL = environ.get('TUTORIAL', 'https://t.me/How_To_Open_Linkl')
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'Ur_support07') # Support Chat Link Without https:// or @
+GRP_LNK = environ.get('GRP_LNK', 'https://t.me/Filmone_Request')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/+4iNTEu002F41Yjc1')
+TUTORIAL = environ.get('TUTORIAL', 'https://t.me/+4iNTEu002F41Yjc1')
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', '@Filmone_Backup') # Support Chat Link Without https:// or @
 
 # True Or False
 AI_SPELL_CHECK = bool(environ.get('AI_SPELL_CHECK', True))
