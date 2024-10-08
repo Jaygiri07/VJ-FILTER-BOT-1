@@ -61,8 +61,8 @@ async def start():
     if ON_HEROKU:
         asyncio.create_task(ping_server())
     #b_users, b_chats = await db.get_banned()
-    temp.BANNED_USERS = b_users
-    temp.BANNED_CHATS = b_chats
+    #temp.BANNED_USERS = b_users
+    #temp.BANNED_CHATS = b_chats
     await Media.ensure_indexes()
     me = await TechVJBot.get_me()
     temp.BOT = TechVJBot
