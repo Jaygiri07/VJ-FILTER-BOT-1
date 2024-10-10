@@ -72,7 +72,7 @@ PUBLIC_FILE_CHANNEL = environ.get('PUBLIC_FILE_CHANNEL', 'Rishu_mood') # Public 
 
 # Links
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/Filmone_Request')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/+4iNTEu002F41Yjc1')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/Filmone_Request')
 TUTORIAL = environ.get('TUTORIAL', 'https://t.me/+4iNTEu002F41Yjc1')
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/Filmone_Backup') # Support Chat Link Without https:// or @
 
