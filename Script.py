@@ -703,13 +703,13 @@ Also your tutorial will be Added Your Group..."""
     DEVELOPER_TXT = """
 special Thanks To ❤️ Developers -
 
--Dev 1 [Owner of this bot ]<a href='https://t.me/rishu1286'>Rishu</a>
+-Dev 1 [Owner of this bot ]<a href='https://t.me/Stylish_Star2'>Rishu</a>
 
--Dev 2 <a href='https://t.me/ur_rishu_143'>Update</a>
+-Dev 2 <a href='https://t.me/Filmone_Request'>Update</a>
 
--Dev 3 <a href='https://t.me/Rishuxbot>Rishu Botz</a>
+-Dev 3 <a href='https://t.me/+4iNTEu002F41Yjc1>Rishu Botz</a>
 
-- Dev 4 <a href='https://t.me/Ur_support07'>Support</a>
+- Dev 4 <a href='https://t.me/Filmone_Request'>Support</a>
 """
 
     RENAME_TXT = """
